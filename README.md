@@ -1,3 +1,9 @@
+This is a game of Hangman. This can be viewed on all screens irrespective of its size. 
+
+Rules are simple - You have to guess an english word. The guess can be made only letter by letter. In total you get 11 attempts to guess the word. 
+A successful attempt would not reduce the number of attempts. You can continue a game from where you had left.
+
+
 To use this RESTful application please follow the instructions as below.
 
 Prerequisites - JAVA 1.7, Maven
