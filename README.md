@@ -9,4 +9,4 @@ Prerequisites - JAVA 1.7, Maven
 	mvn package
 4. In the directory of services you will see a new folder named target in which you will services-1.0.0.war.
 5. Deploy this war onto a web-container like Tomcat.
-6. Access the application with the url : http://<IP>:<PORT>/services
+6. Access the application with the url : http://IP:PORT/services
