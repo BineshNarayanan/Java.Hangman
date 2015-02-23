@@ -3,6 +3,9 @@ This is a game of Hangman. This can be viewed on all screens irrespective of its
 Rules are simple - You have to guess an english word. The guess can be made only letter by letter. In total you get 11 attempts to guess the word. 
 A successful attempt would not reduce the number of attempts. You can continue a game from where you had left.
 
+This application currently doesnt use any database to store the games, but can be extended to so. All the status of games is stored till the webserver
+is up.
+
 
 To use this RESTful application please follow the instructions as below.
 
